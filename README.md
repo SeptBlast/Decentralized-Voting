@@ -1,4 +1,4 @@
-# Your_First_Decentralized_Application
+# Decentralized_Voting_Application
 This is the code for "Building Decentralized Voting Application"
 
 ## Dependencies
