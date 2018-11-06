@@ -1,10 +1,5 @@
 # Your_First_Decentralized_Application
-This is the code for "A Guide to Building Your First Decentralized Application" by Siraj Raval on Youtube
-
-
-## Overview
-
-This is the code for [this](https://youtu.be/gSQXq2_j-mw) video on Youtube by Siraj Raval. It's a guide on how to build your first decentralized application. 
+This is the code for "Building Decentralized Voting Application"
 
 ## Dependencies
 
