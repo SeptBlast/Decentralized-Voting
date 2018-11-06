@@ -1,0 +1,12 @@
+{
+    "name": "Decentralized_Voting_Application",
+    "version": "0.1.0",
+    "description": "Decentralized application",
+    "author": "Devesh Kumar",
+    "repository": "git@github.com:SeptBlast/Decentralized-Voting.git",
+    "devDependencies": {
+      "ethereumjs-testrpc": "^6.0.3",
+      "solc": "^0.4.25",
+      "web3": "^0.20.1"
+    }
+}
