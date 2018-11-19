@@ -10,8 +10,8 @@ This is the code for "Building Decentralized Voting Application"
 Install missing dependencies with [npm](https://www.npmjs.com/). 
 
 ```
-> git clone git@github.com:llSourcell/Your_First_Decentralized_Application.git
-> cd Your_First_Decentralized_Application
+> git clone git@github.com:SeptBlast/Decentralized-Voting.git
+> cd Decentralized-Voting
 > npm install 
 ```
 
